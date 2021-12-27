@@ -30,9 +30,9 @@
 <img align="left" alt="Azure" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <img align="left" alt="GCP" width="26px"  src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" />
 
----
+<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharyrgonzales)](https://github.com/anuraghazra/github-readme-stats)
+[![Zacharyrgonzales GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharyrgonzales)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://instagram.com/zgonzaleict
 [linkedin]: https://linkedin.com/in/zrg
