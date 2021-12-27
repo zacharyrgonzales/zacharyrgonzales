@@ -31,6 +31,7 @@
 <img align="left" alt="GCP" width="26px"  src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" />
 
 <br/>
+<br/>
 
 [![Zacharyrgonzales GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharyrgonzales)](https://github.com/anuraghazra/github-readme-stats)
 
