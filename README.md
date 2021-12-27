@@ -36,12 +36,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="zacharyrgonzales GitHub Stats" src="https://github-readme-stats.zacharyrgonzales.vercel.app/api?username=zacharyrgonzales&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="zacharyrgonzales GitHub Stats" src="https://github-readme-stats.zacharyrgonzales.vercel.app/api?username=zacharyrgonzales&show_icons=true&hide_border=true" />
 
 [instagram]: https://instagram.com/zgonzaleict
 [linkedin]: https://linkedin.com/in/zrg
