@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zacharyrgonzales/](https://github.com/zacharyrgonzales/)
 
-- 💬 Ask me about **Cloud Migration**
+- 💬 Ask me about **Cloud migration, Infrastructure-as-Code (IaC), Platform security & observability**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
