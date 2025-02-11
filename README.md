@@ -66,7 +66,7 @@
     />
   </a>
 
-  <a href="microsoft.com/PowerShell" target="_blank" rel="noreferrer">
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg"
       alt="powershell"
